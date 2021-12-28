@@ -1,0 +1,13 @@
+src/main/java/mfipr/dkf3/querySQL/dump/dump_bk_ogloszenia.sql,33
+src/main/java/mfipr/dkf3/querySQL/dump/dump_bk_ogl_dane_kontakt.sql,6
+src/main/java/mfipr/dkf3/querySQL/dump/dump_bk_ogl_zalaczniki.sql,4
+src/main/java/mfipr/dkf3/querySQL/dump/dump_bk_ogl_zamowienia.sql,10
+src/main/java/mfipr/dkf3/querySQL/dump/dump_bk_ogl_oferty_wybrane.sql,16
+src/main/java/mfipr/dkf3/querySQL/dump/dump_bk_ogl_oferty_zlozone.sql,16
+src/main/java/mfipr/dkf3/querySQL/dump/dump_bk_ogl_pyt_odp.sql,10
+src/main/java/mfipr/dkf3/querySQL/dump/dump_bk_oferty_zalaczniki.sql,3
+src/main/java/mfipr/dkf3/querySQL/dump/dump_bk_ogl_zam_miejsca_real.sql,8
+src/main/java/mfipr/dkf3/querySQL/dump/dump_bk_ogl_zam_warunki.sql,4
+src/main/java/mfipr/dkf3/querySQL/dump/dump_bk_ogl_zam_cpv.sql,4
+src/main/java/mfipr/dkf3/querySQL/dump/dump_bk_ogl_zam_harmonogram.sql,6
+src/main/java/mfipr/dkf3/querySQL/dump/dump_bk_ogl_zam_kryt_oceny.sql,4
